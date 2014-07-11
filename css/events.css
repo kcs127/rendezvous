@@ -1,0 +1,56 @@
+/* CSS Document */
+
+.event-box { margin-top:20px; }
+
+.event-label { float:left; font-family: 'Lato', sans-serif; font-weight:200; font-size:18px; letter-spacing:3px; color:#999;}
+
+.event-input { padding:0 5px; float:left; height:75px; width:100%; background:#000; color:#FFF; font-size:22px; font-family: 'Lato', sans-serif; font-weight:200; }
+.event-input-lg { padding:0 5px; float:left; height:75px; width:100%; background:#000; color:#FFF; font-size:48px; font-family: 'Lato', sans-serif; font-weight:100; }
+.event-input-xl { padding:0 5px; float:left; height:200px; width:100%; background:#000; color:#FFF; font-size:22px; font-family: 'Lato', sans-serif; font-weight:200; }
+
+/****BUTTONS****/
+.btn {
+  border: none;
+  color: white;
+  overflow: hidden;
+  margin: 1rem;
+  padding: 0;
+  text-transform: uppercase;
+  width: 150px;
+  height: 40px;
+}
+
+.btn.color-2 {
+  background-color: #8dc63f;
+}
+
+.btn.color-4 {
+  background-color: #e94043;
+}
+
+
+.btn-border.color-2 {
+  background-color: transparent;
+  border: 2px solid #8dc63f;
+  color: #8dc63f;
+}
+
+.btn-border.color-4 {
+  background-color: transparent;
+  border: 2px solid #e94043;
+  color: #e94043;
+}
+
+.btn-round {
+  border-radius: 10em;
+}
+
+.material-design {
+  position: relative;
+}
+.material-design canvas {
+  opacity: 0.25;
+  position: absolute;
+  top: 0;
+  left: 0;
+}

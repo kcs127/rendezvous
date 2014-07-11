@@ -1,0 +1,153 @@
+/* CSS Document */
+
+body { background:#343434; }
+
+.main-content h1 {  font-family: 'Lato', sans-serif; font-weight:100; font-size:48px; letter-spacing:5px; }
+.rendevous_title { color:#8dc63f; font-family: 'Lato', sans-serif; font-weight:100; font-size:48px; letter-spacing:5px; margin-top:50px;} 
+
+/***NAV***/
+
+.rendevous-nav-title { color:#fff !important; font-family: 'Lato', sans-serif; font-weight:100; letter-spacing:3px;}
+.sm-logo { display:inline-block; margin-top:-3px;}
+
+/**END NAV**/
+
+
+
+/******LOGO*******/
+
+.con_pin {  }
+
+html, body {
+        width: 100%;
+        height: 100%;
+        margin: 0px;
+      }
+      body {
+        /*background-color: transparent;*/
+        -webkit-transform: perspective(1400px) matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);
+        -webkit-transform-style: preserve-3d;
+      }
+      .gwd-img-uaqq {
+        position: absolute;
+		
+        /*left: 459px;*/
+		left:19%;
+        top: 185px;
+		
+        -webkit-transform-style: preserve-3d;
+        -webkit-transform: translate3d(3px, 1px, 0px);
+      }
+      .gwd-img-0i0v {
+        -webkit-transform-style: preserve-3d;
+        -webkit-transform: matrix3d(0.9997947964, 0, -0.0202574695, 0, 0, 1, 0, 0, 0.0202574695, 0, 0.9997947964, 0, 316.9805469345, 113.0062260507, -0.0401291038, 1);
+      }
+      .gwd-gen-yxfggwdanimation {
+        -webkit-animation: gwd-gen-yxfggwdanimation_animation 11s linear 0s 1 forwards;
+      }
+      .gwd-gen-6ynogwdanimation {
+        -webkit-animation: gwd-gen-6ynogwdanimation_animation 11s linear 0s 1 forwards;
+		margin-left:-650px;
+      }
+      @-webkit-keyframes gwd-gen-yxfggwdanimation_animation {
+        0% {
+          -webkit-animation-timing-function: linear;
+          -webkit-transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);
+        }
+        9.0909% {
+          -webkit-animation-timing-function: linear;
+          -webkit-transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);
+        }
+        18.1818% {
+          -webkit-animation-timing-function: linear;
+          -webkit-transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);
+        }
+        27.2727% {
+          -webkit-animation-timing-function: linear;
+          -webkit-transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);
+        }
+        36.3636% {
+          -webkit-animation-timing-function: linear;
+          -webkit-transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);
+        }
+        45.4545% {
+          -webkit-animation-timing-function: linear;
+          -webkit-transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);
+        }
+        54.5455% {
+          -webkit-animation-timing-function: linear;
+          -webkit-transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);
+        }
+        63.6364% {
+          -webkit-animation-timing-function: linear;
+          -webkit-transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);
+        }
+        72.7273% {
+          -webkit-animation-timing-function: linear;
+          -webkit-transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);
+        }
+        81.8182% {
+          -webkit-animation-timing-function: linear;
+          -webkit-transform: translate3d(3px, 1px, 0px);
+        }
+        90.9091% {
+          -webkit-animation-timing-function: linear;
+          -webkit-transform: translate3d(3px, 1px, 0px);
+        }
+        100% {
+          -webkit-animation-timing-function: linear;
+          -webkit-transform: translate3d(3px, 1px, 0px);
+        }
+      }
+      @-webkit-keyframes gwd-gen-6ynogwdanimation_animation {
+        0% {
+          -webkit-animation-timing-function: linear;
+          -webkit-transform: translate3d(315px, 112px, 0px);
+        }
+        9.0909% {
+          -webkit-animation-timing-function: linear;
+          -webkit-transform: matrix3d(0.8744154708, 0, -0.4851778894, 0, 0, 1, 0, 0, 0.4851778894, 0, 0.8744154708, 0, 315, 112, 0, 1);
+        }
+        18.1818% {
+          -webkit-animation-timing-function: linear;
+          -webkit-transform: matrix3d(0.478322087, 0, -0.8781844801, 0, 0, 1, 0, 0, 0.8781844801, 0, 0.478322087, 0, 315, 112, 0, 1);
+        }
+        27.2727% {
+          -webkit-animation-timing-function: linear;
+          -webkit-transform: matrix3d(-0.036242957, 0, -0.9993430082, 0, 0, 1, 0, 0, 0.9993430082, 0, -0.036242957, 0, 315, 112, 0, 1);
+        }
+        36.3636% {
+          -webkit-animation-timing-function: linear;
+          -webkit-transform: matrix3d(-0.2841010403, 0, -0.9587943465, 0, 0, 1, 0, 0, 0.9587943465, 0, -0.2841010403, 0, 315, 112, 0, 1);
+        }
+        45.4545% {
+          -webkit-animation-timing-function: linear;
+          -webkit-transform: matrix3d(-0.5140386483, 0, -0.8577670243, 0, 0, 1, 0, 0, 0.8577670243, 0, -0.5140386483, 0, 315, 112, 0, 1);
+        }
+        54.5455% {
+          -webkit-animation-timing-function: linear;
+          -webkit-transform: matrix3d(-0.6165404604, 0, -0.787323225, 0, 0, 1, 0, 0, 0.787323225, 0, -0.6165404604, 0, 315, 112, 0, 1);
+        }
+        63.6364% {
+          -webkit-animation-timing-function: linear;
+          -webkit-transform: matrix3d(0.9997947964, 0, -0.0202574695, 0, 0, 1, 0, 0, 0.0202574695, 0, 0.9997947964, 0, 315, 112, 0, 1);
+        }
+        72.7273% {
+          -webkit-animation-timing-function: linear;
+          -webkit-transform: matrix3d(0.9997947964, 0, -0.0202574695, 0, 0, 1, 0, 0, 0.0202574695, 0, 0.9997947964, 0, 315, 112, 0, 1);
+        }
+        81.8182% {
+          -webkit-animation-timing-function: linear;
+          -webkit-transform: matrix3d(0.9997947964, 0, -0.0202574695, 0, 0, 1, 0, 0, 0.0202574695, 0, 0.9997947964, 0, 315, 112, 0, 1);
+        }
+        90.9091% {
+          -webkit-animation-timing-function: linear;
+          -webkit-transform: matrix3d(0.9997947964, 0, -0.0202574695, 0, 0, 1, 0, 0, 0.0202574695, 0, 0.9997947964, 0, 272.445813131, 109.7778482183, 0.8622170726, 1);
+        }
+        100% {
+          -webkit-animation-timing-function: linear;
+          -webkit-transform: matrix3d(0.9997947964, 0, -0.0202574695, 0, 0, 1, 0, 0, 0.0202574695, 0, 0.9997947964, 0, 316.9805469345, 113.0062260507, -0.0401291038, 1);
+        }
+      }
+
+/****END LOGO****/
